@@ -1,0 +1,36 @@
+.green{
+    color: #71af3afe;
+    font: 'sans','poping';
+}
+.blue{
+    color: ##1d2eaffe;
+}
+.red{
+    color: red;
+}
+ul{
+    color: black;
+}
+ul li a{
+    margin: 50px;
+    margin-left: 2%;
+    
+}
+.container-fluid{
+     
+}
+.profile{
+    width: 100%;
+    margin-left: 8%;
+    margin-top: 10%;
+    display: inline-block;
+   
+    
+}
+.profile img{
+    clip-path: circle(50%);
+    width: 10vw;
+}
+.profile .posting{
+    float: right;
+}
